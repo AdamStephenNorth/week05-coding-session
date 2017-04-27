@@ -1,0 +1,24 @@
+.navbar {
+  border: none;
+}
+
+div.container-fluid {
+      background-color: cyan;
+}
+
+.btn-primary {
+  background-color: pink;
+  color: red;
+  border-color: orange;
+}
+
+.btn-default {
+  background-color: aqua;
+  color: blue;
+  border-color: green;
+}
+
+.img-circle {
+  height: 150px;
+  width: 150px;
+}
